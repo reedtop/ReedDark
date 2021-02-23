@@ -1,0 +1,9 @@
+{
+  "name": "ReedDark",
+  "author": "reedbook",
+  "url": "https://github.com/reedtop/ReedDark",
+  "version": "1.0.3",
+  "modes": [
+    "dark"
+  ]
+}
